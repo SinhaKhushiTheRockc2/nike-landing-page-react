@@ -2,7 +2,7 @@
 Developed a fully responsive landing page inspired by Nike using React, showcasing modern design trends and interactive UI/UX.
 
 ## Hosted Link:
-### 
+### https://sinhakhushitherockc2.github.io/nike-landing-page-react/
 
 ## Features:
 * Hero Section:The landing page begins with a bold Hero section featuring a prominent call-to-action button and a dynamic product display.
